@@ -1,0 +1,8 @@
+/dump/
+/.pytest_cache/
+/ZENNet.egg-info/
+/dataset
+/venv
+**.pyc
+**.*.swp
+**/__pycache__/
